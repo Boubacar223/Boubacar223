@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Boubacar Ouattara  
 - 👀 I’m interested in Web developer and security
-- 🌱 I’m currently learning at 42 Nice
 - 💞️ I’m looking to collaborate on security
 - 📫 You can reach me via mail boubacarouattara88@gmail.com
 
